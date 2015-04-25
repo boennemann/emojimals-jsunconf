@@ -7,5 +7,5 @@ test(function (t) {
 
   t.ok(/🐈/.test(soundToEmojis('hiss')), 'cats hiss')
   t.ok(!/🐛/.test(soundToEmojis('hiss')), 'bugs don\'t hiss')
-  t.is(soundToEmojis('yo'), null, 'yo is not an animal sound')
+  t.ok(/NOPE/.test(soundToEmojis('yo')), 'yo is not an animal sound')
 })
