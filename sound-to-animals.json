@@ -1,0 +1,180 @@
+{
+  "squeak": [
+    "rat",
+    "rabbit"
+  ],
+  "eek": [
+    "rat"
+  ],
+  "brux": [
+    "rat"
+  ],
+  "bellow": [
+    "ox",
+    "cattle",
+    "koala"
+  ],
+  "low": [
+    "ox",
+    "cattle"
+  ],
+  "moo": [
+    "cattle"
+  ],
+  "bawl": [
+    "cattle"
+  ],
+  "growl": [
+    "tiger",
+    "rabbit"
+  ],
+  "roar": [
+    "tiger",
+    "elephant",
+    "alligator"
+  ],
+  "snarl": [
+    "tiger"
+  ],
+  "drum": [
+    "rabbit"
+  ],
+  "mew": [
+    "cat"
+  ],
+  "purr": [
+    "cat"
+  ],
+  "meow": [
+    "cat"
+  ],
+  "miaow": [
+    "cat"
+  ],
+  "hiss": [
+    "cat",
+    "alligator",
+    "snake"
+  ],
+  "yowl": [
+    "cat"
+  ],
+  "screech": [
+    "cat",
+    "monkey"
+  ],
+  "caterwaul": [
+    "cat"
+  ],
+  "neigh": [
+    "horse"
+  ],
+  "snort": [
+    "horse",
+    "pig"
+  ],
+  "whinny": [
+    "horse"
+  ],
+  "nicker": [
+    "horse"
+  ],
+  "sputter": [
+    "horse"
+  ],
+  "bleat": [
+    "sheep",
+    "goat"
+  ],
+  "baa": [
+    "sheep",
+    "goat"
+  ],
+  "crow": [
+    "rooster"
+  ],
+  "chirrup": [
+    "bird"
+  ],
+  "chirp": [
+    "bird"
+  ],
+  "twitter": [
+    "bird"
+  ],
+  "tweet": [
+    "bird"
+  ],
+  "sing": [
+    "bird",
+    "whale"
+  ],
+  "whistle": [
+    "bird"
+  ],
+  "sqeawah": [
+    "penguin"
+  ],
+  "trumpet": [
+    "elephant"
+  ],
+  "moan": [
+    "elephant"
+  ],
+  "rumble": [
+    "elephant"
+  ],
+  "grunt": [
+    "camel",
+    "pig",
+    "alligator"
+  ],
+  "squeal": [
+    "pig"
+  ],
+  "oink": [
+    "pig"
+  ],
+  "bark": [
+    "dog"
+  ],
+  "woof": [
+    "dog"
+  ],
+  "arf": [
+    "dog"
+  ],
+  "bay": [
+    "dog"
+  ],
+  "bow-wow": [
+    "dog"
+  ],
+  "howl": [
+    "dog"
+  ],
+  "yap": [
+    "dog"
+  ],
+  "scream": [
+    "koala"
+  ],
+  "wail": [
+    "koala"
+  ],
+  "chatter": [
+    "monkey"
+  ],
+  "gecker": [
+    "monkey"
+  ],
+  "gibber": [
+    "monkey"
+  ],
+  "whoop": [
+    "monkey"
+  ],
+  "quak": [
+    "alligator"
+  ]
+}
