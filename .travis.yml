@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+- iojs-v1
+sudo: false
+cache:
+  directories:
+  - node_modules
+notifications:
+  email: false
+before_deploy:
+ - npm config set spin false --global
+deploy:
+  provider: npm
+  email: stephan@boennemann.me
+  skip_cleanup: true
+  on:
+    branch: master
+    repo: boennemann/emojimals-jsunconf
+  api_key:
+    secure: DlVKbXCHO/yk+AA5jdoqU9ZEoIj2FqK3IiKrg2Rn3+8yMjMyUooTh3/BiN6IdMVGCYN0Is14hCRyHDq0C91F8IrfB+ntRJtL0iIxIpX0mVO6UpD8TdNEN7AIiQhCvq5dD273vmkHoE0G/l+yF3qBNmmiUdIhmiAyHBJiD2ik0uI=
