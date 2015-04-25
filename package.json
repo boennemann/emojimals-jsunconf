@@ -1,0 +1,23 @@
+{
+  "name": "@boennemann/emojimals-jsunconf",
+  "version": "0.0.0-semantically-released",
+  "bugs": {
+    "url": "https://github.com/boennemann/emojimals-jsunconf/issues"
+  },
+  "devDependencies": {
+    "semantic-release": "^3.2.0",
+    "tape": "^4.0.0"
+  },
+  "homepage": "https://github.com/boennemann/emojimals-jsunconf#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boennemann/emojimals-jsunconf.git"
+  },
+  "scripts": {
+    "test": "tape tests/*",
+    "postpublish": "semantic-release post",
+    "prepublish": "semantic-release pre"
+  }
+}
