@@ -5,7 +5,7 @@
     "url": "https://github.com/boennemann/emojimals-jsunconf/issues"
   },
   "devDependencies": {
-    "semantic-release": "^3.2.0",
+    "semantic-release": "^4.3.5",
     "tape": "^4.0.0"
   },
   "homepage": "https://github.com/boennemann/emojimals-jsunconf#readme",
